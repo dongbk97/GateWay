@@ -1,0 +1,10 @@
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\config\SecurityConfig.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\GateWayServiceApplication.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\exceptionhandle\JwtTokenMalformedException.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\jwt\JwtFilterCus.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\jwt\gatewayfilter\GatewayFilterSpecCus.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\jwt\JwtUtils.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\config\GateWayConfig.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\exceptionhandle\ErrorCus.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\exceptionhandle\ExceptionHandleCus.java
+C:\Users\dongt\Desktop\GateWay-Service\src\main\java\com\example\gatewayservice\jwt\gatewayfilter\GateWayFilterCus.java
